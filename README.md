@@ -33,7 +33,7 @@
 * [19.AST的基本结构](./19/)
 * [20.代码的基本结构](./20/)
 * [21.parser与generator](./21/)
-* [22.traverse与visitor](./22/)
+* **[22.traverse与visitor](./22/)**
 * [23.types](./23/)
 * [24.Path对象详解(Path与Node的区别)](./24/)
 * [25.Path对象详解(Path中的方法)](./25/)
